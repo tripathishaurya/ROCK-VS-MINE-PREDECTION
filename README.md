@@ -3,7 +3,7 @@
 
 
 This is my first machine learning project where I built a binary classification model to distinguish between **sonar signals reflected by rocks** and **mines** using **Logistic Regression**.
-
+this was a great learning.
 ---
 
 ## 📂 Dataset
